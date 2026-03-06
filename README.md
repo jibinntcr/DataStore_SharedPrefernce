@@ -64,4 +64,6 @@ The UI is specifically designed to show the technical difference between the two
 
 **Instructor:** Jibin N
 
-<img width="2940" height="1860" alt="image" src="https://github.com/user-attachments/assets/eefb30aa-28c3-440b-b426-fe09f7a922f4" />
+<img width="2940" height="1860" alt="image" src="https://github.com/user-attachments/assets/1ab0f5c0-4b3e-44a0-830f-a2c75a722514" />
+
+

@@ -1,3 +1,5 @@
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/5eb9f819-7aff-4bf8-8209-78491bb8d6f4" />
+
 # 📱 Student Enrollment App: SharedPreferences vs. DataStore
 
 This project is a practical demonstration for **CS09: Software Development for Portable Devices** at **BITS Pilani (WILP)**. It highlights the evolution of Android storage from the legacy Preference Framework to modern, reactive DataStore.
@@ -46,7 +48,7 @@ The UI is specifically designed to show the technical difference between the two
 3. **UI Framework**: Jetpack Compose.
 4. **Dependencies**:
 ```kotlin
-[cite_start]implementation("androidx.datastore:datastore-preferences:1.0.0")  
+implementation("androidx.datastore:datastore-preferences:1.0.0")  
 
 
 ## 🧪 How to Test the Demo
@@ -64,5 +66,4 @@ The UI is specifically designed to show the technical difference between the two
 
 **Instructor:** Jibin N
 
-<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/d1ead90d-047d-4ba3-9899-ee8909af3727" />
 
